@@ -6,7 +6,7 @@ An interface for "Firebase Cloud Messaging for Android" on Node.js
 
 Via [npm](https://www.npmjs.com/package/fcm):
 
-    $ npm install fcm
+    $ npm install etm-fcm
 
 
 ## Usage
