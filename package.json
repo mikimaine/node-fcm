@@ -1,12 +1,12 @@
 {
   "name": "etm-fcm",
-  "description": "An interface to Firebase Cloud Messaging for Android (FCM) on Node.js.",
-  "version": "1.0.1",
-  "author": "Noor Mohamed",
+  "description": "An interface to Firebase Cloud Messaging for Android (FCM) on Node.js. Forked from nandarustam/fcm-push",
+  "version": "1.2.0",
+  "author": "Mikiyas Amdu",
   "contributors": [
     {
-      "name": "Noor Mohamed",
-      "email": "noormohamed47@gmail.com"
+      "name": "Mikiyas Amdu",
+      "email": "mikias.amdu@gmail.com"
     }
   ],
   "keywords": [
@@ -20,8 +20,8 @@
   "main": "./lib/fcm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aknoormohamed/node-fcm.git",
-    "web": "https://github.com/aknoormohamed/fcm"
+    "url": "https://github.com/mikimaine/node-fcm.git",
+    "web": "https://github.com/mikimaine/node-fcm"
   },
   "engines": {
     "node": ">= 0.8.0"
